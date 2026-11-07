@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 ![Release](https://img.shields.io/badge/release-2.0.0-brightgreen)
 
-> **Triggr 2.0 is out of beta.** Install it from the **[pwnapple repo](https://jond-ie.github.io/repo/)** (Rootless and
+> **Triggr 2.0 is out of beta.** Install it from the **[Jond_ie repo](https://jond-ie.github.io/repo/)** (Rootless and
 > RootHide, iOS 15–27). Bug reports go to **[Jond-ie/triggr](https://github.com/Jond-ie/triggr/issues)**.
 > This repo keeps the 2.0 beta builds and notes; the next beta will show up here too. The source folders here are from older betas.
 
@@ -42,7 +42,7 @@ Tested on A10 (iOS 15.8.6), A11 (iOS 16.7), A13 Face ID (iOS 16.2), A13 Touch ID
 A13 Face ID (iOS 18.6.2).
 
 **RootHide:** the betas came with a RootHide build in each GitHub release (the `_roothide_` .deb), starting with
-[2.0 Beta 3](https://github.com/Jond-ie/triggr-beta/releases/tag/v2.0.0-beta3). From 2.0 the RootHide build is in the pwnapple repo.
+[2.0 Beta 3](https://github.com/Jond-ie/triggr-beta/releases/tag/v2.0.0-beta3). From 2.0 the RootHide build is in the Jond_ie repo.
 
 ## Triggr 2.0 betas
 
