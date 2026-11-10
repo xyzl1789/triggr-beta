@@ -1,7 +1,7 @@
 # Triggr — beta builds and feedback
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-![Release](https://img.shields.io/badge/release-2.0.0-brightgreen)
+![Release](https://img.shields.io/badge/release-2.1.0-brightgreen)
 
 > **Triggr 2.0 is out of beta.** Install it from the **[Jond_ie repo](https://jond-ie.github.io/repo/)** (Rootless and
 > RootHide, iOS 15–27). Bug reports go to **[Jond-ie/triggr](https://github.com/Jond-ie/triggr/issues)**.
